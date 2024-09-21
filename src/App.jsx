@@ -7,6 +7,7 @@ function App() {
     <>
       <div>
         <h1>Firebase</h1>
+        <h3>hello</h3>
         <Auth></Auth>
       </div>
     </>
