@@ -2,7 +2,7 @@ import React from 'react'
 
 const Auth = () => {
   return (
-    <div>Auth</div>
+    <div>This the auth part of my project for login logout  purpose</div>
   )
 }
 
